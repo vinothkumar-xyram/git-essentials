@@ -1,7 +1,14 @@
 This is just a demo content
 we will be adding all the participants name & email id  below
 
+<<<<<<< HEAD
 Thulasi email: thulasi.rama@xyramsoft.com
+
+=======
+Haripriya.D  haripriya.dhana@xyramsoft.com
+>>>>>>> c475c8aa40118af903a579c8c35b0ee9e5b76b30
+
+Navaneetha navaneetha.n@xyramsoft.com
 
 
 vinoth <vinoth.kumar@xyramsoft.com>
