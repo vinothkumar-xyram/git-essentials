@@ -1,9 +1,9 @@
 This is just a demo content
 we will be adding all the participants name & email id  below
 
-<<<<<<< HEAD
+Haripriya.D  haripriya.dhana@xyramsoft.com
+
 Navaneetha navaneetha.n@xyramsoft.com
-=======
+
 
 vinoth <vinoth.kumar@xyramsoft.com>
->>>>>>> 9d5460c3cabf23c4c1d1d03577b1dc6a04745c53
