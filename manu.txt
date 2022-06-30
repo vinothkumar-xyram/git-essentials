@@ -2,3 +2,16 @@
 	void testUpdateAssetEmployee() {
 		fail("Not yet implemented");
 	}
+
+
+void testEditAssetEmployee() {
+		AssetEmployee assetEmployeObj = new AssetEmployee();
+		assetEmployeObj.setAssetEmployeeStatus(null);
+		assetEmployeObj.setAssetId("ASSSll73WA885");
+		assetEmployeObj.setEmpId("USR_klCfeqz516");
+		assetEmployeObj.setMouseIssued(false);
+		assetEmployeObj.setPowercordIssued(true);
+		assetEmployeObj.setReturnDate(null);
+		assetEmployeObj.setReturnReason("something problem");
+		assetEmployeObj.setReturnType(null);
+		assetEmployeObj.setUpdatedBy("lokesh");
