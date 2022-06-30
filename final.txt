@@ -1,2 +1,1 @@
-Hiii
-hello
+ git push --set-upstream origin doc/30/06/22/hari
