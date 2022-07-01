@@ -14,7 +14,6 @@ void testEditAssetEmployee() {
 		assetEmployeObj.setUpdatedBy("lokesh");
 
 
-git clone is a git command line utility used to target an existing repository and create a clone, or copy of the target repository.
 
 void testEditassetVendorStatus() throws Exception {
 		AssetVendor assetvendorObj = new AssetVendor();
